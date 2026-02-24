@@ -1,2 +1,20 @@
-# E-Commerce-Website
-Full-stack e-commerce platform with product catalog, authentication, and order management system.
+# E-Commerce Website
+
+## Objective
+Develop a full-stack online shopping platform.
+
+## Tools
+PHP, JavaScript, HTML, CSS, Bootstrap, SQL
+
+## Features
+• User Authentication  
+• Product Catalog  
+• Shopping Cart  
+• Order Management  
+
+## Highlights
+• Supports 500+ products  
+• Enables seamless online shopping experience
+
+## Outcome
+Built a functional full-stack e-commerce website.
